@@ -20,7 +20,7 @@ This project is a simple email validation tool built using HTML, CSS, and JavaSc
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/email-validation.git
+    git clone https://github.com/aahmadshaik/Email-Validation.git
     ```
 
 2. Navigate to the project directory:
